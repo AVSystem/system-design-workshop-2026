@@ -28,7 +28,7 @@ This repository includes:
 
 ## 🔗 Useful links
 - [AVSystem Internship](https://go.avsystem.com/internship-at-avsystem)
-- [Feedback survey](https://bit.ly/4stG5JS)
+- [Feedback survey](https://forms.gle/hBfSqjXZfn7QUFB18)
 
 ## 📜 Resources
 
