@@ -17,13 +17,13 @@ This repository includes:
 
 | Time            | Topic                         |
 |-----------------|-------------------------------|
-| [16:00 - 16:05] | Workshop introduction         |
-| [16:05 - 16:45] | Introduction to System Design |
-| [16:45 - 17:30] | 1st part of the assignment    |
-| [17:30 - 17:50] | Break                         |
-| [17:50 - 18:25] | 2nd part of the assignment    |
-| [18:25 - 18:40] | Assignment discussion         |
-| [18:40 - 19:00] | Feedback + prize draw         |
+| [16:45 - 16:50] | Workshop introduction         |
+| [16:50 - 17:30] | Introduction to System Design |
+| [17:30 - 18:15] | 1st part of the assignment    |
+| [18:15 - 18:35] | Break                         |
+| [18:35 - 19:10] | 2nd part of the assignment    |
+| [19:10 - 19:25] | Assignment discussion         |
+| [19:25 - 19:45] | Feedback + prize draw         |
 
 
 ## 🔗 Useful links
